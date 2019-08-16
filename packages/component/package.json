@@ -1,0 +1,7 @@
+{
+  "name": "@test/component",
+  "version": "1.0.0",
+  "description": "sample subpackage",
+  "main": "index.js",
+  "license": "MIT"
+}
